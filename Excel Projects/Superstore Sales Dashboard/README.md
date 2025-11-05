@@ -29,11 +29,6 @@ It visualizes key performance metrics, regional trends, category-wise performanc
 
 ---
 
-### 🖼️ Dashboard Preview
-![Superstore Sales Dashboard](screenshot.jpg)
-
----
-
 ### 🛠️ Tools Used
 - Microsoft **Excel Online**
 - **Pivot Tables**, Charts, and **Slicers**
