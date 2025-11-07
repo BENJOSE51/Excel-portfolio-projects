@@ -23,14 +23,6 @@ Each project applies data cleaning, KPI creation, and dashboard design technique
 - 🌐 [**View Live Dashboard (Excel Online)**](https://1drv.ms/x/c/baa08c37e25bec72/EZDFjthxGzlHm6_JZ6BymUABA2oEkFAijZ-iBGehgj2izw?e=mlIMv0)
 
 ---
-
-## 🧰 Tools & Techniques Used
-- **Microsoft Excel:** Pivot Tables, Charts, and Slicers  
-- **Formulas:** SUMIFS, COUNTIFS, IF, VLOOKUP  
-- **Visualization:** KPI cards, category charts, interactive filters  
-
----
-
 ## 🏁 Overview
 These Excel dashboards highlight end-to-end analytics — from data preparation to visualization — demonstrating the ability to deliver real business insights using Excel alone.
 
